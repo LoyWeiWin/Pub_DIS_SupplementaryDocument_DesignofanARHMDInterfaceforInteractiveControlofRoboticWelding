@@ -1,17 +1,15 @@
 # [RepoName]
 
 ## Overview
-This project investigates [XYZ]
+This project explores the integration of Augmented Reality (AR) and computational workflows to support novice users in programming and establishing robot welding paths. The aim is to lower the entry barrier for users who lack prior experience with robotic systems or welding automation by providing intuitive, visual, and interactive guidance through AR interfaces. By combining AR’s spatial visualization capabilities with a backend computational framework, the system enables users to define, simulate, and refine welding paths directly within the physical context of the workpiece. This approach seeks to streamline the welding setup process, reduce errors, and enhance user understanding and confidence in robotic operations.
 
 <img src="https://github.com/LoyWeiWin/[RepoName]/blob/main/Assets/Thumbnails/Vid_RoboticSketching.gif" alt="Alt Text" width="450">
-
-
-## Project
-- [ProjectName]
 
 ## Software Requirement
 - Rhino 7 or latest
 - [Robot plugin](https://github.com/visose/Robots)
+- [Fologram](https://fologram.com/download)
+- [Generation](https://www.food4rhino.com/en/app/generation?lang=en)
 
 ## Key Features
 - **Parametric Design Control**: Use Grasshopper to dynamically adjust sketching pattern (bychanging reference image).
@@ -22,9 +20,6 @@ This project investigates [XYZ]
 - `RhinoFiles/`: Robot workcell, and end-effectors.
 - `Assets/`: Images, thumbnails and videos
 - `Docs/`: Documentation for installation, and troubleshooting.
-
-> [!TIP]
-> For more setup instrucions and usage, see the [Wiki](https://github.com/LoyWeiWin/TemplateRepo/wiki).
 
 ## Contributing
 Contributions to improve this workflow are welcome! Please follow the contributing guidelines in the [contributing guidelines](https://github.com/LoyWeiWin/TemplateRepo/wiki/06_Contributing-Guidelines) in wiki.
