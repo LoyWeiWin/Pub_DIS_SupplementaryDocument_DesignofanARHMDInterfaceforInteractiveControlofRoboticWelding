@@ -24,14 +24,11 @@ This project explores the integration of Augmented Reality (AR) and computationa
 - `Assets/`: Images, thumbnails and videos
 - `Docs/`: Documentation for installation, and troubleshooting.
 
-## Contributing
-Contributions to improve this workflow are welcome! Please follow the contributing guidelines in the [contributing guidelines](https://github.com/LoyWeiWin/TemplateRepo/wiki/06_Contributing-Guidelines) in wiki.
-
 ## Code of Conduct
 This project follows the Contributor Covenant Code of Conduct. Please read our [Code of Conduct](https://github.com/LoyWeiWin/TemplateRepo/blob/main/CODE_OF_CONDUCT.md) before contributing.
 
 > [!WARNING]  
-> If you are unfamiliar with using [XYZ], please ensure you have supervision from a qualified advisor or professional.
+> If you are unfamiliar with using cobot such as UR10 and AR-HMD, please ensure you have supervision from a qualified advisor or professional.
 > The contributor or owner of this repository is not responsible for any physical damage, injury, or harm caused to the immediate environment or individuals due to improper usage of cobots or related tools.
 
 ## Acknowledgements
