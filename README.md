@@ -12,7 +12,7 @@ This approach seeks to streamline the welding setup process, reduce errors, and 
 
 <p>
   <img src="https://github.com/LoyWeiWin/Pub_ISMAR_SupplementalDocument_DesignofanARHMDInterfaceforInteractiveControlofRoboticTackandSeamWeld/blob/ef99aa30721b453bffd0c857b2cd5e39fd112f61/Assets/Images/GitHub-Fig-01.jpg?raw=true" alt="Figure 01: AR-supported Robotic Welding Setup" width="600"><br>
-  <em>Figure 01: AR-supported robotic welding setup illustrating the use of a head-mounted display (HMD) to guide novice users in defining and verifying welding paths in real-time. (A) Workstation (B) Microsoft HoloLens 2 (C) Visual Marker for spatial anchoring (D) Virtual Overlay of the Cobot and End Effector (E) Control Box (F) Metal Workpiece </em>
+  <em>Figure 01: AR-supported robotic welding setup illustrating the use of a head-mounted display (HMD) to guide novice users in defining and verifying welding paths in real-time. **(A) **Workstation **(B)** Microsoft HoloLens 2 **(C) **Visual Marker for spatial anchoring **(D)** Virtual Overlay of the Cobot and End Effector **(E)** Control Box **(F)** Metal Workpiece </em>
 </p>
 
 ## Software Requirements
