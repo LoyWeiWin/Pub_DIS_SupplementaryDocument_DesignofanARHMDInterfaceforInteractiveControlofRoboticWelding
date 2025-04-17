@@ -7,7 +7,7 @@ This repository provides supplemental materials for the poster titled "Design of
 This project explores the integration of Augmented Reality (AR) and computational workflows to support novice users in programming and establishing robot welding paths.  
 The aim is to lower the entry barrier for users who lack prior experience with robotic systems or welding automation by providing intuitive, visual, and interactive guidance through AR interfaces.
 
-By combining AR’s spatial visualization capabilities with a backend computational framework, the system enables users to define, simulate, and refine welding paths directly within the physical context of the workpiece.  
+By combining AR’s spatial visualisation capabilities with a backend computational framework, the system enables users to define, simulate, and refine welding paths directly within the physical context of the workpiece.  
 This approach seeks to streamline the welding setup process, reduce errors, and enhance user understanding and confidence in robotic operations.
 
 <p>
@@ -24,12 +24,12 @@ This approach seeks to streamline the welding setup process, reduce errors, and 
 ## Hardware Requirements
 - Universal Robot, UR10 CB-Series
 - Microsoft HoloLens (AR-HMD)
-- Customized metal workpieces
-- Customized end effector ([Millibar](https://millibar.com/manual-tool-changer/), [Soldamatic](https://seaberyat.com/en/soldamatic/), customized connection)
+- Customised metal workpieces
+- Customised end effector ([Millibar](https://millibar.com/manual-tool-changer/), [Soldamatic](https://seaberyat.com/en/soldamatic/), customised connection)
 
 ## Key Features
-- Parametric Design Control: Use Grasshopper to dynamically adjust robot waypoints, visualize robot trajectories, transmit robot commands, and visualize potential robotic errors.
-- Compatibility with Universal Robot: Seamless integration with UR collaborative robots for robotic welding (both tack and seam welding).
+**Parametric Design Control**: Use Grasshopper to dynamically adjust robot waypoints, visualise robot trajectories, transmit robot commands, and visualise potential robotic errors.
+**Compatibility with Universal Robot**: Seamless integration with UR collaborative robots for robotic welding (both tack and seam welding).
 
 ## Repository Structure
 - `GrasshopperFiles/`: Grasshopper scripts.
