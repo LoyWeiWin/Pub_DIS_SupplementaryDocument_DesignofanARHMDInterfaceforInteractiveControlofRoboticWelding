@@ -42,8 +42,19 @@ This project follows the Contributor Covenant Code of Conduct. Please read our [
 This project was independently developed as part of my personal initiative and commitment to advancing this field.
 
 ## References
-1. [APA 7th Edition]
+[1] J. Gwyllim, N. Cam, and N. van der Bruggen, "Fologram for Grasshopper," Fologram, 2025. [Online]. Available: https://fologram.com/
 
+[2] Y.-S. Kim, C.-H. Lee, and Y.-K. Kim, "Effect of heat input on microstructure and mechanical properties of austenitic stainless steel welds," Materials Science and Engineering: A, vol. 396, pp. 1–9, 2005. doi: 10.1016/j.msea.2004.11.063
+
+[3] G. Liu, W. Sun, and P. Li, "Motion capture and AR-based programming by demonstration for industrial robots using handheld teaching device," Scientific Reports, vol. 14, no. 1, p. 23259, 2024. doi: 10.1038/s41598-024-73747-4
+
+[4] F. Mueller, C. Deuerlein, and M. Koch, "Intuitive welding robot programming via motion capture and augmented reality," IFAC-PapersOnLine, vol. 52, no. 10, pp. 294–299, 2019. doi: 10.1016/j.ifacol.2019.10.045
+
+[5] D. Ni, A. W. W. Yew, S. K. Ong, and A. Y. C. Nee, "Haptic and visual augmented reality interface for programming welding robots," Advances in Manufacturing, vol. 5, no. 3, pp. 191–198, 2017. doi: 10.1007/s40436-017-0184-7
+
+[6] S. K. Ong, A. Y. C. Nee, A. W. W. Yew, and N. K. Thanigaivel, "AR-assisted robot welding programming," Advances in Manufacturing, vol. 8, no. 1, pp. 40–48, 2020. doi: 10.1007/s40436-019-00283-0
+
+[7] D. Rutten, "Grasshopper – Algorithmic Modeling for Rhino," Grasshopper3D, [Online]. Available: https://www.grasshopper3d.com/
 
 
 
