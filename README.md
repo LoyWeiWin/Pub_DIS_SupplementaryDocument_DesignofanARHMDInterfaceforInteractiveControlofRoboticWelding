@@ -12,7 +12,7 @@ This approach seeks to streamline the welding setup process, reduce errors, and 
 
 <p>
   <img src="https://github.com/LoyWeiWin/Pub_ISMAR_SupplementalDocument_DesignofanARHMDInterfaceforInteractiveControlofRoboticTackandSeamWeld/blob/ef99aa30721b453bffd0c857b2cd5e39fd112f61/Assets/Images/GitHub-Fig-01.jpg?raw=true" alt="Figure 01: AR-supported Robotic Welding Setup" width="600"><br>
-  <em>Figure 01: AR-supported robotic welding setup illustrating the use of a head-mounted display (HMD) to guide novice users in defining and verifying welding paths in real-time. **(A) **Workstation **(B)** Microsoft HoloLens 2 **(C) **Visual Marker for spatial anchoring **(D)** Virtual Overlay of the Cobot and End Effector **(E)** Control Box **(F)** Metal Workpiece </em>
+  <em>Figure 01: AR-supported robotic welding setup illustrating the use of a head-mounted display (HMD) to guide novice users in defining and verifying welding paths in real-time. (A) Workstation (B) Microsoft HoloLens 2 (C) Visual Marker for spatial anchoring (D) Virtual Overlay of the Cobot and End Effector (E) Control Box (F) Metal Workpiece </em>
 </p>
 
 ## Software Requirements
@@ -28,8 +28,8 @@ This approach seeks to streamline the welding setup process, reduce errors, and 
 - Customized end effector ([Millibar](https://millibar.com/manual-tool-changer/), [Soldamatic](https://seaberyat.com/en/soldamatic/), customized connection)
 
 ## Key Features
-- **Parametric Design Control**: Use Grasshopper to dynamically adjust robot waypoints, visualize robot trajectories, transmit robot commands, and visualize potential robotic errors.
-- **Compatibility with Universal Robot**: Seamless integration with UR collaborative robots for robotic welding (both tack and seam welding).
+- Parametric Design Control: Use Grasshopper to dynamically adjust robot waypoints, visualize robot trajectories, transmit robot commands, and visualize potential robotic errors.
+- Compatibility with Universal Robot: Seamless integration with UR collaborative robots for robotic welding (both tack and seam welding).
 
 ## Repository Structure
 - `GrasshopperFiles/`: Grasshopper scripts.
@@ -43,15 +43,15 @@ This approach seeks to streamline the welding setup process, reduce errors, and 
 This repository is intended to share supplemental materials related to the poster.  
 Currently, external contributions are not accepted.
 
-For any queries, please contact **loyweiwin@gmail.com**.
+For any queries, please contact loyweiwin@gmail.com.
 
 
 > [!WARNING]  
-> **If you are unfamiliar with using cobots such as the UR10 and AR-HMD systems, ensure supervision by a qualified advisor or professional. The contributor or owner of this repository is not responsible for any physical damage, injury, or harm caused to individuals or the environment due to improper usage of cobots or related tools.**
+> If you are unfamiliar with using cobots such as the UR10 and AR-HMD systems, ensure supervision by a qualified advisor or professional. The contributor or owner of this repository is not responsible for any physical damage, injury, or harm caused to individuals or the environment due to improper usage of cobots or related tools.
 
 ## License
 
-This repository is licensed under the **Custom Academic License v1.0 (2025)**.
+This repository is licensed under the Custom Academic License v1.0 (2025).
 
 See the [LICENSE](./LICENSE) file for full terms.
 
