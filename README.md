@@ -29,6 +29,7 @@ This approach seeks to streamline the welding setup process, reduce errors, and 
 
 ## Key Features
 **Parametric Design Control**: Use Grasshopper to dynamically adjust robot waypoints, visualise robot trajectories, transmit robot commands, and visualise potential robotic errors.
+
 **Compatibility with Universal Robot**: Seamless integration with UR collaborative robots for robotic welding (both tack and seam welding).
 
 ## Repository Structure
