@@ -40,7 +40,7 @@ This approach seeks to streamline the welding setup process, reduce errors, and 
 
 ## Contributing
 
-This repository is intended to share supplemental materials related to the poster "[Poster Title]."  
+This repository is intended to share supplemental materials related to the poster.  
 Currently, external contributions are not accepted.
 
 For any queries, please contact **loyweiwin@gmail.com**.
