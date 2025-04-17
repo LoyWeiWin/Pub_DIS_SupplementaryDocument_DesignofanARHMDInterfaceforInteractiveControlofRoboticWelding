@@ -21,8 +21,8 @@ This project explores the integration of Augmented Reality (AR) and computationa
 - Customised end effector ([Milliar](https://millibar.com/manual-tool-changer/), [Soldamatic](https://seaberyat.com/en/soldamatic/), customised connection)
 
 ## Key Features
-- **Parametric Design Control**: Use Grasshopper to dynamically adjust sketching pattern (bychanging reference image).
-- **Compatibility with Universal Robot**: Seamless integration with UR collaborative robots for industrial applications.
+- **Parametric Design Control**: Use Grasshopper to dynamically adjust robot waypoints, visualise robot trajectories, transmitting robot command, and visualise potential robotic error.
+- **Compatibility with Universal Robot**: Seamless integration with UR collaborative robots for robotic welding (both tack and seam welding).
 
 ## Repository Structure
 - `GrasshopperFiles/`: Grasshopper scripts.
