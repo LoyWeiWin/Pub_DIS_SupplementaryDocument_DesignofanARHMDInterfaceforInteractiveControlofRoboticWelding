@@ -31,8 +31,12 @@ This project explores the integration of Augmented Reality (AR) and computationa
 - `Docs/`: Documentation for installation, and troubleshooting.
 - `Submission/`: Full resolution of the photograph(s) & illustration(s), full version of the paper.
 
-## Code of Conduct
-This project follows the Contributor Covenant Code of Conduct. Please read our [Code of Conduct](https://github.com/LoyWeiWin/TemplateRepo/blob/main/CODE_OF_CONDUCT.md) before contributing.
+## Contributing
+
+This repository is intended to share supplemental materials related to [Poster Title].  
+Currently, we are not accepting external contributions.
+
+For any queries, please contact loyweiwin@gmail.com.
 
 > [!WARNING]  
 > If you are unfamiliar with using cobot such as UR10 and AR-HMD, please ensure you have supervision from a qualified advisor or professional.
