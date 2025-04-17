@@ -14,15 +14,22 @@ This project explores the integration of Augmented Reality (AR) and computationa
 - [Fologram](https://fologram.com/download)
 - [Generation](https://www.food4rhino.com/en/app/generation?lang=en)
 
+## Hardware Requirement
+- Universal Robot, UR10 CB-Series
+- Microsoft HoloLens, AR-HMD
+- Customised metal pieces
+- Customised end effector ([Milliar](https://millibar.com/manual-tool-changer/), [Soldamatic](https://seaberyat.com/en/soldamatic/), customised connection)
+
 ## Key Features
 - **Parametric Design Control**: Use Grasshopper to dynamically adjust sketching pattern (bychanging reference image).
 - **Compatibility with Universal Robot**: Seamless integration with UR collaborative robots for industrial applications.
 
 ## Repository Structure
 - `GrasshopperFiles/`: Grasshopper scripts.
-- `RhinoFiles/`: Robot workcell, and end-effectors.
+- `RhinoFiles/`: Robot workcell.
 - `Assets/`: Images, thumbnails and videos
 - `Docs/`: Documentation for installation, and troubleshooting.
+- `Submission/`: Full resolution of the photograph(s) & illustration(s), full version of the paper.
 
 ## Code of Conduct
 This project follows the Contributor Covenant Code of Conduct. Please read our [Code of Conduct](https://github.com/LoyWeiWin/TemplateRepo/blob/main/CODE_OF_CONDUCT.md) before contributing.
