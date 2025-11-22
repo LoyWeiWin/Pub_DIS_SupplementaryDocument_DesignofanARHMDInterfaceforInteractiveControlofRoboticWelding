@@ -1,14 +1,10 @@
-# Design of an AR-HMD Interface for Interactive Control of Robotic Tack and Seam Welding - Supplemental Document
+# Design of an AR-HMD Interface for Interactive Control of Robotic Tack and Seam Welding - Supplementary Documents
 
-This repository provides supplemental materials for the poster titled "Design of an AR-HMD Interface for Interactive Control of Robotic Tack and Seam Welding," presented at the International Symposium on Mixed and Augmented Reality (ISMAR), 2025.
+This repository provides supplemental materials for the long paper titled "Design of an AR-HMD Interface for Interactive Control of Robotic Tack and Seam Welding," presented at the CAADRIA, 2026.
 
 ## Overview
 
-This project explores the integration of Augmented Reality (AR) and computational workflows to support novice users in programming and establishing robot welding paths.  
-The aim is to lower the entry barrier for users who lack prior experience with robotic systems or welding automation by providing intuitive, visual, and interactive guidance through AR interfaces.
-
-By combining AR’s spatial visualisation capabilities with a backend computational framework, the system enables users to define, simulate, and refine welding paths directly within the physical context of the workpiece.  
-This approach seeks to streamline the welding setup process, reduce errors, and enhance user understanding and confidence in robotic operations.
+This project explores the integration of Augmented Reality (AR) and computational workflows to support novice users in programming and establishing robot welding paths.  The aim is to lower the entry barrier for users who lack prior experience with robotic systems or welding automation by providing intuitive, visual, and interactive guidance through AR interfaces. By combining AR’s spatial visualisation capabilities with a backend computational framework, the system enables users to define, simulate, and refine welding paths directly within the physical context of the workpiece.  This approach seeks to streamline the welding setup process, reduce errors, and enhance user understanding and confidence in robotic operations.
 
 <p>
   <img src="https://github.com/LoyWeiWin/Pub_ISMAR_SupplementalDocument_DesignofanARHMDInterfaceforInteractiveControlofRoboticTackandSeamWeld/blob/ef99aa30721b453bffd0c857b2cd5e39fd112f61/Assets/Images/GitHub-Fig-01.jpg?raw=true" alt="Figure 01: AR-supported Robotic Welding Setup" width="600"><br>
